@@ -1,0 +1,27 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package operadoresaritimeticos;
+
+/**
+ *
+ * @author gropp
+ */
+public class OperadoresAritimeticos {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        int n1 = 3;
+        int n2 = 5;
+        // + operador de soma
+        float m = (n1 + n2)/2;
+        // + sinal de concatenacao de string
+        System.out.println("A média é igual a " + m);
+    }
+    
+}
