@@ -1,4 +1,4 @@
 # Java
 Exercicios de JAVA
 Curso em Video - Guanabara
-07/2021
+- Certificado emitido em 07/2021
